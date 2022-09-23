@@ -16,10 +16,20 @@ body{
     margin: auto;
 }
 
+a {
+    color: #e3b062;
+    text-decoration: none;
+}
+
 
 .header .container{
     display: flex;
     justify-content: space-between;
+}
+
+.header ul #aqui{
+    font-weight: 1000;
+    color: #32b9cd;
 }
 
 .navbar{
